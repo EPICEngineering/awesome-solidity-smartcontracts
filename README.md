@@ -6,3 +6,6 @@ Awesome Archives of Solidity Smart Contracts
 
 ### Merkle Trees in Solidity
 - https://github.com/circle-free/merkle-trees
+
+### Verifiable Delay Functions in Solidity
+- https://github.com/circle-free/verifiable-delay-functions
