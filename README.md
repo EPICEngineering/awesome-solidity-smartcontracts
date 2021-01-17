@@ -9,3 +9,9 @@ Awesome Archives of Solidity Smart Contracts
 
 ### Verifiable Delay Functions in Solidity
 - https://github.com/circle-free/verifiable-delay-functions
+
+### Proof of Existence in Solidity
+- https://github.com/ramyhardan/proof-of-existence
+
+### Proof of Burn in Solidity
+- https://github.com/pash7ka/BurnableToken
